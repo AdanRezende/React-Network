@@ -1,0 +1,88 @@
+{
+   "data":[
+      {
+         "TRAN_ID":"1",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"2",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"3",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"4",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"5",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"6",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"7",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"8",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"9",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"10",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"11",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      },
+      {
+         "TRAN_ID":"12",
+         "TRAN_NAME":"Mercado",
+         "TRAN_STORE":"Mercado Vitória Certa",
+         "TRAN_DATE":"20/08/2021",
+         "TRAN_VALUE":"28,52"
+      }
+   ]
+}
