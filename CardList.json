@@ -1,0 +1,27 @@
+{ "data": [
+  { 
+    "CARD_ID": "1", 
+    "CARD_TYPE": "VISA", 
+    "CARD_NAME": "SANTANDER", 
+    "CARD_NUMBER": "1234", 
+    "CARD_STYLE": "#F44336" 
+  },{ 
+    "CARD_ID": "2", 
+    "CARD_TYPE": "MASTER", 
+    "CARD_NAME": "BRADESCO", 
+    "CARD_NUMBER": "2345", 
+    "CARD_STYLE": "#009688" 
+  },{ 
+    "CARD_ID": "3", 
+    "CARD_TYPE": "MASTER", 
+    "CARD_NAME": "NUBANK", 
+    "CARD_NUMBER": "3456", 
+    "CARD_STYLE": "#5C6BC0" 
+  },{ 
+    "CARD_ID": "4", 
+    "CARD_TYPE": "VISA", 
+    "CARD_NAME": "ITAÚ", 
+    "CARD_NUMBER": "4567", 
+    "CARD_STYLE": "#007FFF" 
+  }
+]}
